@@ -83,3 +83,8 @@ Developed as part of NASA Space Apps Challenge 2025, showcasing innovative use o
 
 🔗 Repository: (https://github.com/MEGAVARSHINI2004/NASA_space_app_challenge.git)
 🚀 Experience the future of weather planning with NASA's data power!
+
+# The website screenshot:
+
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/c4ac1d3a-6c9b-48b5-a917-5ab056210be2" />
+
