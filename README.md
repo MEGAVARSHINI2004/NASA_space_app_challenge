@@ -28,23 +28,26 @@ Deployment: Localhost with potential cloud scaling
 
 ## 📁 Project Structure
 NASA_space_app_challenge/
-├── app.py                 # Flask backend server
-├── data_processor.py      # NASA data processing engine
-├── requirements.txt       # Python dependencies
+├── app.py # Flask backend server
+├── data_processor.py # NASA data processing engine
+├── requirements.txt # Python dependencies
 ├── templates/
-│   └── index.html         # Main dashboard interface
+│ └── index.html # Main dashboard interface
 ├── static/
-│   ├── css/style.css      # Custom styling
-│   └── js/script.js       # Frontend functionality
-└── sample_data/           # NASA dataset storage
-🚀 Installation & Setup
-bash
-## Clone repository
+│ ├── css/
+│ │ └── style.css # Custom styling
+│ └── js/
+│ └── script.js # Frontend functionality
+└── sample_data/ # NASA dataset storage
+
+## 🚀 Installation & Setup
+1. Clone repository
 git clone (https://github.com/MEGAVARSHINI2004/NASA_space_app_challenge.git)
 
-## Install dependencies
+2.Install dependencies
 pip install -r requirements.txt
-## Run application
+
+3. Run application
 python app.py
 
 ## Access dashboard at: http://localhost:5000
