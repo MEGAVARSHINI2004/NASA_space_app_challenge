@@ -32,12 +32,7 @@ NASA_space_app_challenge/
 ├── data_processor.py # NASA data processing engine
 ├── requirements.txt # Python dependencies
 ├── templates/
-│ └── index.html # Main dashboard interface
-├── static/
-│ ├── css/
-│ │ └── style.css # Custom styling
-│ └── js/
-│ └── script.js # Frontend functionality
+│ └── index.html # Main dashboard interface with css, js
 └── sample_data/ # NASA dataset storage
 
 ## 🚀 Installation & Setup
